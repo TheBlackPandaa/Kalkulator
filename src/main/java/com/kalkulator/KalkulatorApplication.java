@@ -10,4 +10,5 @@ public class KalkulatorApplication {
         SpringApplication.run(KalkulatorApplication.class, args);
     }
 
+
 }
